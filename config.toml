@@ -1,0 +1,65 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme = "kross"
+
+BaseUrl= "http://example.com/"
+LanguageCode= "fr-FR"
+Title= "The Law Offices of Joseph A. Bondy"
+paginate = 5
+Copyright = "<br></br>  All rights reserved - 2019"
+canonifyurls = true
+
+[params]
+  description = ""
+  metadescription = "Used as 'description' meta tag for both home and index pages. If not set, 'description' will be used instead"
+  cover = "images/c14.jpg"
+  author = "Joseph A. Bondy"
+  authorlocation = "1776 Broadway Suite 2000 NewYork, NY 10019"
+  authorwebsite = "/"
+  authorbio= "Joseph A. Bondy is a criminal defense and corporate cannabis attorney in Manhattan. A graduate of Columbia University and Brooklyn Law School, Mr. Bondy is admitted to practice in New York, the United States District Courts for the Northern, Southern, Eastern and Western Districts of New York, the District of Connecticut, the United States Courts of Appeal for the First, Second, Third, and Fourth Circuits, and the Supreme Court of the United States. Over the past twenty-four years, he has represented more than one thousand individuals at all stages of litigation, including dozens of federal and state cannabis clients. "
+  
+  logo = "images/jab_profilepic_alt.png"
+  googleAnalyticsUserID = "UA-79101-12"
+  # Optional RSS-Link, if not provided it defaults to the standard index.xml
+  RSSLink = "http://feeds.feedburner.com/..."
+  twitterName = ""
+  # facebookName = ""
+  # codepenName = ""
+  # linkedinName = ""
+  # stackoverflowId = ""
+  # keybaseName = ""
+  # flickrName = ""
+  # instagramName = ""
+  # email = ""
+  # pinterestName = ""
+  # googlePlusName = ""
+  # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
+  hideHUGOSupport = true
+  
+  # Setting a value will load highlight.js and enable syntax highlighting using the style selected.
+  # See https://github.com/isagalaev/highlight.js/tree/master/src/styles for available styles
+  # A preview of above styles can be viewed at https://highlightjs.org/static/demo/
+  hjsStyle = "default"
+
+  [params.social]
+    twitter = "your_twitter"
+
+    [[menu.main]]
+  name = "bout the Firm"
+  weight = -120
+  identifier = "blog"
+  url = "/"
+
+
+    [[menu.main]]
+  name = "ITK420"
+  weight = -110
+  identifier = "ITK420"
+  url = "/ITK420"
+    
+
+  
+
+
+  

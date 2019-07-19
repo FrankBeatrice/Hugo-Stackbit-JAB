@@ -4,11 +4,7 @@ draft = false
 layout = "cover"
 title = "Significant Cases"
 type = "page"
-[menu.main]
-identifier = "About The Firm"
-name = "- Significant Cases "
-pre = "<h3>About the Firm</h3>"
-weight = 143
+
 
 +++
 Below are just a few of the results of Mr. Bondy’s dedicated advocacy: 

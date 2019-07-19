@@ -4,11 +4,6 @@ draft = false
 layout = "cover"
 title = "Attorneys"
 type = "page"
-[menu.main]
-identifier = ""
-name = "- Attorneys "
-pre = ""
-weight = 143
 
 +++
 Joseph A. Bondy is a criminal defense and corporate cannabis attorney in Manhattan. A graduate of Columbia University and Brooklyn Law School, Mr. Bondy is admitted to practice in New York, the United States District Courts for the Northern, Southern, Eastern and Western Districts of New York, the District of Connecticut, the United States Courts of Appeal for the First, Second, Third, and Fourth Circuits, and the Supreme Court of the United States. Over the past twenty-four years, he has represented more than one thousand individuals at all stages of litigation, including dozens of federal and state cannabis clients. 

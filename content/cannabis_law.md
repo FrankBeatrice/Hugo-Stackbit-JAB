@@ -4,11 +4,7 @@ draft = false
 layout = "cover"
 title = "Practice Areas"
 type = "page"
-[menu.main]
-identifier = ""
-name = "- Cannabis Law "
-pre = "<h3>Practice Areas</h3>"
-weight = 143
+
 
 +++
 Below are just a few of the results of Mr. Bondy’s dedicated advocacy: 

@@ -6,9 +6,6 @@ noauthor = true
 share = false
 title = "Testimonials"
 type = "page"
-[menu.main]
-weight = 111
-
 +++
 Client Review, Juvenile Justice Case: 
      "I was a juvenile entangled in the criminal justice system when I first met Mr. Bondy. I was neither in school nor sure about my future. Mr. Bondy inspired me to pursue an education, despite any perceived hurdles. His guidance and assistance were a critical aspect to my development as a responsible and accountable person. I have the utmost respect for Mr. Bondy. He is a great person, mentor, and friend." 

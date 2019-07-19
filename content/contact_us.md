@@ -8,10 +8,6 @@ tags = []
 title = "Contact Us"
 type = "page"
 weight = "120"
-[menu.main]
-weight = 120
-pre = "<h3>Contact Us</h3>"
-
 +++
 
 <div class="form-box">

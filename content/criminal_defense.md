@@ -5,11 +5,6 @@ layout = "cover"
 title = "Practice Areas"
 type = "page"
 
-identifier = "Practice Areas"
-name = "- Criminal Defense "
-pre = ""
-weight = 143
-
 +++
 Below are just a few of the results of Mr. Bondy’s dedicated advocacy: 
 
